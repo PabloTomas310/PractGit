@@ -1,1 +1,19 @@
+.escondido{
+    visibility: hidden;
+}
 
+.error{
+    border: 2px black solid;
+    border-radius: 20px;
+    background-color: wheat;
+    color: red;
+    font-weight: bold;
+}
+
+.correcto{
+    border: 2px black solid;
+    border-radius: 20px;
+    background-color: wheat;
+    color: green;
+    font-weight: bold;
+}
